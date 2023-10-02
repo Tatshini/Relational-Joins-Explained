@@ -16,3 +16,8 @@ This repository provides practical examples of relational joins and demonstrates
 **Execution**
 To see a few examples of relational joins,
 Run the following command on terminal: python relational_joins.py
+
+**Authors**
+- Laila
+- Maricela
+- Tatshini
