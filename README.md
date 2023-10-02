@@ -13,4 +13,6 @@ This repository provides practical examples of relational joins and demonstrates
 
 2. Clone this repository and update the configuration values in user_config.py file
     
-
+**Execution**
+To see a few examples of relational joins,
+Run the following command on terminal: python relational_joins.py
