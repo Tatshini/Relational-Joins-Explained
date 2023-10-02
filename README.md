@@ -8,6 +8,9 @@ This repository provides practical examples of relational joins and demonstrates
 - You should have postgresql installed. Make sure an instance is running in the background.
 
 **Setup**
-Run the following command on terminal:
-pip install psycopg
+1. Run the following command on terminal:
+    pip install psycopg
+
+2. Clone this repository and update the configuration values in user_config.py file
+    
 
